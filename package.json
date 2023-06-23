@@ -1,0 +1,17 @@
+{
+  "name": "@goskan93/my-project-contracts",
+  "version": "1.0.0",
+  "description": "Example of creating package with contracts usin Github Packages",
+  "types": "./dist/index.d.ts",
+  "publishConfig": {
+    "goskan93:registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "exit 0",
+    "build": "npx tsc"
+  },
+  "author": "goskan93",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
