@@ -1,6 +1,6 @@
 {
   "name": "@goskan93/my-project-contracts",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Example of creating package with contracts usin Github Packages",
   "types": "./dist/index.d.ts",
   "publishConfig": {
